@@ -4,7 +4,7 @@ title: LSST
 description: LSST
 img: /assets/img/lsst.jpg
 redirect: https://www.lsst.org
-importance: 3
+importance: 1
 category: work
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Fink broker
 description: Fink broker
 img: /assets/img/fink.png
 importance: 1
