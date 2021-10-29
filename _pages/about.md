@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: (https://www.swinburne.edu.au/research/centres-groups-clinics/centre-for-astrophysics-supercomputing> Swinburne University Centre for Astrophysics and Supercomputing</a>. 
+description: <a heref=https://www.swinburne.edu.au/research/centres-groups-clinics/centre-for-astrophysics-supercomputing> Swinburne University Centre for Astrophysics and Supercomputing</a>. 
 
 profile:
   align: right
