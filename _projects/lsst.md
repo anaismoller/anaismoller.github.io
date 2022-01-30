@@ -2,13 +2,13 @@
 layout: page
 title: Vera C. Rubin Observatory LSST
 description: Vera C. Rubin Observatory LSST
-img: /assets/img/lsst.jpg
+img: /assets/img/rubin.jpg
 # redirect: https://www.lsst.org
 importance: 1
 category: work
 ---
 
-The Vera C. Rubin Observatory will be in the enxrt decade the largest optical survey in the world! Rubin will scan the entire Southern Sky at unprecedented depths and resolution for 10 years, detecting up to 10 million transients per night. 
+The Vera C. Rubin Observatory will be in the next decade the largest optical survey in the world! Rubin will scan the entire Southern Sky at unprecedented depths and resolution for 10 years, detecting up to 10 million transients per night. 
 
 I am co-founder of a Rubin community broker called [Fink](http://fink-broker.org) that will process all potential transients from the LSST survey.
 
