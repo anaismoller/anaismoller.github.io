@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fink broker
-description: Fink broker
+description: empowering transient science in the big data era
 img: /assets/img/fink.png
 importance: 1
 category: work
