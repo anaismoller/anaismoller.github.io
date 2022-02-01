@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Vera C. Rubin Observatory LSST
-description: Vera C. Rubin Observatory LSST
+title: Rubin LSST
+description: world's largest optical survey
 img: /assets/img/rubin.jpg
 # redirect: https://www.lsst.org
 importance: 1

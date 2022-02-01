@@ -19,7 +19,7 @@ I am driven to understand the nature of Dark Energy and the physics of transient
 
 _ _ _ _ _
 Research interests:
-* I am co-leading of [Fink broker](http://fink-broker.org) which will process, enrich and filter transient data from the largest optical survey in the world at the Vera C. Rubin Observatory.
+* I am co-leading [Fink broker](http://fink-broker.org) which will process, enrich and filter transient data from the largest optical survey in the world at the Vera C. Rubin Observatory.
 * I obtain constraints on the nature of Dark Energy with Type Ia Supernovae at the [Dark Energy Survey](http://www.darkenergysurvey.org).
 * I study multi-wavelength and messenger fast-transients with the world’s largest transient collaboration the [Deeper Wider Faster program](https://www.swinburne.edu.au/research/centres-groups-clinics/centre-for-astrophysics-supercomputing/our-research/data-intensive-astronomy-software-instrumentation/deeper-wider-faster-program/).
 * I am an Associate Investigator at the [ARC Centre of Excellence for Gravitational Wave Discovery](https://www.ozgrav.org) where I  work on the optical and multi-wavelength follow-up of gravitational waves events.
