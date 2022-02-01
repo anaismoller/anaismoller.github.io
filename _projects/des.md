@@ -2,7 +2,7 @@
 layout: page
 title: DES & OzDES
 description: unveiling Dark Energy with SNe Ia
-img: /assets/img/des.jpg
+img: /assets/img/desozdes.jpg
 # redirect: http://www.darkenergysurvey.org
 importance: 4
 category: work

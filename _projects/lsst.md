@@ -4,7 +4,7 @@ title: Rubin LSST
 description: world's largest optical survey
 img: /assets/img/rubin.jpg
 # redirect: https://www.lsst.org
-importance: 1
+importance: 2
 category: work
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Deeper Wider Faster
 description: multi-wavelength fast-transients
-img: /assets/img/dwf.png
+img: /assets/img/dwf.jpg
 importance: 3
 category: work
 ---
