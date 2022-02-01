@@ -1,3 +1,3 @@
 # al-folio
 Based on 
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/alshedivat/al-folio)
+![Al-Folio](https://github.com/alshedivat/al-folio)
