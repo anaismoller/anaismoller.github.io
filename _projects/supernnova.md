@@ -14,5 +14,7 @@ It does not require feature extraction, is fast and is adaptable to different tr
 With SuperNNova I introduced the use of Bayesian Neural Networks in supernova classification. We aim to use these networks to quantify uncertainties and use them in astrophysical analyses!
 
 [SuperNNova publication MNRAS (Möller et al. 2020)](https://academic.oup.com/mnras/article-abstract/491/3/4277/5651173?redirectedFrom=fulltext)
+
 [SuperNNova publication ArXiv (open source)](https://arxiv.org/pdf/1901.06384.pdf)
+
 [SuperNNova on GitHub](https://github.com/supernnova/SuperNNova)
