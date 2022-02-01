@@ -17,6 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am driven to understand the nature of Dark Energy and the physics of transients in the Universe. To do so, I work with extremely large astronomical datasets. To maximize the information we can use to understand our Universe, I develop innovative tools with a large emphasis on machine learning.
 
+
 _ _ _ _ _
 Research interests:
 * I am co-leading [Fink broker](http://fink-broker.org) which will process, enrich and filter transient data from the largest optical survey in the world at the Vera C. Rubin Observatory.
@@ -31,5 +32,5 @@ I am currently a Postdoctoral Research Fellow at [Swinburne University Centre fo
 _ _ _ _ _
 I was born in Venezuela and did my undergrad at Universidad Simón Bolívar. I then moved to France and did the NPAC master and a PhD at Irfu Cea Saclay and Université Paris Diderot. I enjoy communicating science and was selected to be a CAASTRO Astronomer in Residence at Uluru, Australia. I speak spanish, english, french and german. I also ejoy hiking, rock climbing, diving, sailing and playing cello. 
 
-
+_ _ _ _ _
 
