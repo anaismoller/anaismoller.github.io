@@ -6,7 +6,7 @@ description: supernovae | time-domain astronomy | cosmology | machine learning
 
 profile:
   align: right
-  image: anais_moller.jpg
+  image: Anais_Moller_CAS.jpg
   address: >
 
 news: true  # includes a list of news items
