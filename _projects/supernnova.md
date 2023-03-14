@@ -17,4 +17,4 @@ With SuperNNova I introduced the use of Bayesian Neural Networks in supernova cl
 
 [SuperNNova publication ArXiv (open source)](https://arxiv.org/pdf/1901.06384.pdf)
 
-[SuperNNova on GitHub](https://github.com/supernnova/SuperNNova)
+ <p><small><i class="fab fa-github"></i> <a href="https://github.com/supernnova/supernnova"> @SuperNNova</a></small></p>

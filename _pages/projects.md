@@ -2,12 +2,13 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Some of the research projects I am currently working on
+description: 
 nav: true
 display_categories: [work]
 horizontal: false
 ---
-My complete publciation list, including projects not listed here, can be found at [ORCID](https://orcid.org/0000-0001-8211-8608)
+
+My complete publication list, including projects not listed here, can be found at [ORCID](https://orcid.org/0000-0001-8211-8608)
 
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
