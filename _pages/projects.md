@@ -8,7 +8,22 @@ display_categories: [work]
 horizontal: false
 ---
 
-My complete publication list, including projects not listed here, can be found at [ORCID](https://orcid.org/0000-0001-8211-8608)
+## Students
+Interested in doing a project? I am currently recruiting PhD, Honours and internship students.
+
+Please look at the [Swinburne CAS webpage](https://astronomy.swin.edu.au/study/phdprojects.html) and send me an email to <a href="mailto:amoller@swin.edu.au">amoller@swin.edu.au</a>.
+
+## Current Students
+Mark Suhr: PhD candidate at Swinbure (Co-supervisor)
+Natasha Van Bemmel: PhD candidate at Swinbure (Co-supervisor)
+## Past Students
+Natalyia Ramos: Erasmus master internship Clermont-Ferrand (Supervisor) -> PhD candidate at IAC Spain
+Fiona Panther: PhD ANU (Co-supervisor) -> Postdoc UWA
+Bonnie Zhang: PhD ANU (Co-supervisor) -> Google USA
+Patrick Armstrong: Undergraduate internship (Co-supervisor) -> PhD Candidate ANU
+Also summer and winter projects supervisor.
+
+## Collaborations
 
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
