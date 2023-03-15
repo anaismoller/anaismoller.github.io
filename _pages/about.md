@@ -12,6 +12,7 @@ profile:
   address: >
     <p><small><i class="fab fa-github"></i> <a href="https://github.com/anaismoller"> @anaismoller</a></small></p>
     <p><small><i class="fas fa-envelope"></i> <a href="mailto:amoller@swin.edu.au">amoller@swin.edu.au</a></small></p>
+    <p><small>[@ Swinburne](https://www.swinburne.edu.au/research/our-research/access-our-research/find-a-researcher-or-supervisor/researcher-profile/?id=amoller)</small></p>
 
 
 news: true  # includes a list of news items
