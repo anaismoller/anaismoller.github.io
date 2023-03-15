@@ -10,7 +10,7 @@ horizontal: false
 
 Science is done in collaboration with many colleagues and students.
 
-## Students
+<!-- ## Students
 Interested in doing a project? I am currently recruiting PhD, Honours and internship students.
 
 Please look at the [Swinburne CAS webpage](https://astronomy.swin.edu.au/study/phdprojects.html) and send me an email to <a href="mailto:amoller@swin.edu.au">amoller@swin.edu.au</a>.
@@ -25,7 +25,7 @@ Bonnie Zhang: PhD ANU (Co-supervisor) -> Google USA
 Patrick Armstrong: Undergraduate internship (Co-supervisor) -> PhD Candidate ANU
 Also summer and winter projects supervisor.
 
-## Collaborations
+## Collaborations -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
