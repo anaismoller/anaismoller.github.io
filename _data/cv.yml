@@ -45,8 +45,8 @@
 - title: Selected Roles in Scientific Collaborations
   type: time_table
     contents:
-      - title: Fink Principal Investigator and management team
-        year: 2019-now
-      
-      - title: Dark Energy Science Collaboration Collaboration Council
-        year: 2021-2022
+      - year: 2019-now
+        title: Fink Principal Investigator and management team
+      - year: 2021-2022
+      title: Dark Energy Science Collaboration Collaboration Council
+        
