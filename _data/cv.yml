@@ -35,15 +35,19 @@
       institution: Universidad Simón Bolívar, Venezuela
       year: 2011
 
-
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2022
-      items: 
-        - ARC Discovery Early Career Researcher Award
+      title: ARC Discovery Early Career Researcher Award
+      subtitle: Illuminating the dark Universe with explosive astrophysical events
+      description: 
 
-- title: Other Interests
-  type: list
-  contents:
-    - hiking, rock climbing, diving, sailing and playing cello
+- title: Selected Roles in Scientific Collaborations
+  type: time_table
+    contents:
+      - title: Fink Principal Investigator and management team
+        year: 2019-now
+      
+      - title: Dark Energy Science Collaboration Collaboration Council
+        year: 2021-2022
