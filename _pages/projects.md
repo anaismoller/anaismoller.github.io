@@ -16,13 +16,13 @@ Interested in doing a project? I am currently recruiting PhD, Honours and intern
 Please look at the [Swinburne CAS webpage](https://astronomy.swin.edu.au/study/phdprojects.html) and send me an email to <a href="mailto:amoller@swin.edu.au">amoller@swin.edu.au</a>.
 
 ## Current Students
-Mark Suhr: PhD candidate at Swinbure
-Natasha Van Bemmel: PhD candidate at Swinbure
+Mark Suhr: PhD candidate at Swinbure (Co-supervisor)
+Natasha Van Bemmel: PhD candidate at Swinbure (Co-supervisor)
 ## Past Students
-Natalyia Ramos: Erasmus master internship Clermont-Ferrand -> PhD candidate at IAC Spain
-Fiona Panther: PhD ANU -> Postdoc UWA
-Bonnie Zhang: PhD ANU -> Google USA
-Patrick Armstrong: Undergraduate internship -> PhD Candidate ANU
+Natalyia Ramos: Erasmus master internship Clermont-Ferrand (Supervisor) -> PhD candidate at IAC Spain
+Fiona Panther: PhD ANU (Co-supervisor) -> Postdoc UWA
+Bonnie Zhang: PhD ANU (Co-supervisor) -> Google USA
+Patrick Armstrong: Undergraduate internship (Co-supervisor) -> PhD Candidate ANU
 Also summer and winter projects supervisor.
 
 ## Collaborations

@@ -8,6 +8,13 @@ importance: 2
 category: work
 ---
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/fink-portal.jpg" title="Rubin Observatory" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
 The Vera C. Rubin Observatory will be in the next decade the largest optical survey in the world! Rubin will scan the entire Southern Sky at unprecedented depths and resolution for 10 years, detecting up to 10 million transients per night. 
 
 I am co-founder of a Rubin community broker called [Fink](http://fink-broker.org) that will process all potential transients from the LSST survey.
