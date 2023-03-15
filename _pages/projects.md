@@ -17,6 +17,7 @@ Interested in doing a project? I am currently recruiting PhD, Honours and intern
 * Fiona Panther: PhD ANU (Co-supervisor) -> Postdoc UWA
 * Bonnie Zhang: PhD ANU (Co-supervisor) -> Google USA
 * Patrick Armstrong: Undergraduate internship (Co-supervisor) -> PhD Candidate ANU
+
 Also summer and winter projects supervisor.
 
 ## Collaborations

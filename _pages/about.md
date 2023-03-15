@@ -42,9 +42,8 @@ Astronomical time-series classifier framework.
 
 _ _ _ _ _
 
-<p> Before my ARC DECRA Fellowship, I was a Postdoctoral Research Fellow at Swinburne University Centre for Astrophysics and Supercomputing. Before that, I worked for CNRS at Laboratoire de Physique de Clermont (LPC), and at the Australian National University as an ARC CoE CAASTRO Postdoctoral Fellow in Dark Energy.</p>
 
-<p>I was born in Venezuela and did my undergrad at Universidad Simón Bolívar. I then moved to France and did the NPAC master and a PhD at Irfu Cea Saclay and Université Paris Diderot. I enjoy communicating science and was selected to be a CAASTRO Astronomer in Residence at Uluru, Australia. I speak spanish, english, french and german. I also ejoy hiking, rock climbing, diving, sailing and playing cello. </p>
+<p>I have lived in Venezuela, Germany, France and Australia. I enjoy the outdoors so you will find me as well sailing, hiking, rock climbing, diving... </p>
 
 _ _ _ _ _
 
