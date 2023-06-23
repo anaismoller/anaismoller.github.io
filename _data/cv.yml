@@ -39,9 +39,15 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2022
+    - year: 2023
       items: 
         - ARC Discovery Early Career Researcher Award
+    - year: 2023
+      items: 
+        - ARC LIEF gran (CoI)
+    - year: 2023
+      items: 
+        - Finalist Women in AI APAC region
 
 - title: Other Interests
   type: list
