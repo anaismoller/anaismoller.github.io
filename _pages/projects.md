@@ -14,6 +14,7 @@ Interested in doing a project? I am currently recruiting PhD, Honours and intern
 * Renee Key: PhD candidate at Swinbure (Co-supervisor) current
 * Mark Suhr: PhD candidate at Swinbure (Co-supervisor) current
 * Natasha Van Bemmel: PhD candidate at Swinbure (Co-supervisor) current
+* James Freeburn: PhD candidate at Swinbure (Co-supervisor) current
 * Natalyia Ramos: Master LPC (Supervisor) -> PhD at IAC Spain
 * Fiona Panther: PhD ANU (Co-supervisor) -> Postdoc UWA
 * Bonnie Zhang: PhD ANU (Co-supervisor) -> Google USA
