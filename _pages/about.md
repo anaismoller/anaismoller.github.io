@@ -20,23 +20,19 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-**I am a physicist driven to understand the nature of Dark Energy and the nature of transients.**
-
-To maximize the information we can use to understand our Universe, I develop innovative tools with a large emphasis on machine learning.
+**I am a physicist driven to understand the nature of Dark Energy and the nature of transients.** To maximize the information we can use to understand our Universe, I develop innovative tools with a large emphasis on machine learning (ML).
 
 _ _ _ _ _
-[Fink](http://fink-broker.org) Principal Investigator and Management team.
-Fink empowers transient science in the era of astronomical big data, filtering huge datasets to identify the most promising transients. Fink will process the largest optical survey in the world at the Vera C. Rubin Observatory.
+[Fink](http://fink-broker.org): Principal Investigator and Management team.
+Fink empowers transient science in the era of astronomical big data, filtering huge datasets to identify the most promising transients. Fink is one of the handful projects worldwide awarded with real-time access to transients from the largest optical survey in the world at the Vera C. Rubin Observatory.
 
-[Dark Energy Survey](http://www.darkenergysurvey.org) Supernova cosmology. 
-I obtain constraints on the nature of Dark Energy with Type Ia Supernovae and use ML to obtain large SNe Ia samples to study their properties.
+[Dark Energy Survey (DES)](http://www.darkenergysurvey.org): I obtain constraints on the nature of Dark Energy with Type Ia Supernovae and use ML to obtain large SNe Ia samples to study their properties. I created the most succesfull SNe Ia ML classifier for cosmology, currently used in multiple surveys including DES, [SuperNNova](https://arxiv.org/abs/1901.06384).
 
 [ARC Centre of Excellence for Gravitational Wave Discovery](https://www.ozgrav.org) Associate Investigator. 
-I  work on the optical and multi-wavelength follow-up of gravitational waves events.
+I  work on the optical and multi-wavelength follow-up of gravitational wave events and other extreme physics transients.
 
 Member of [Dark Energy Science Collaboration (DESC LSST)](http://lsst-desc.org), [Transients and Variable Star Collaboration (TVS LSST)](https://lsst-tvssc.github.io), [Informatics and Statistics Science Collaboration for LSST](https://issc.science.lsst.org), [Deeper Wider Faster program](https://www.swinburne.edu.au/research/centres-groups-clinics/centre-for-astrophysics-supercomputing/our-research/data-intensive-astronomy-software-instrumentation/deeper-wider-faster-program/).
 
-[SuperNNova](https://arxiv.org/abs/1901.06384) lead. Astronomical time-series classifier framework.
 
 _ _ _ _ _
 
