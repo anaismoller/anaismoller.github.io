@@ -26,7 +26,7 @@ _ _ _ _ _
 [Fink](http://fink-broker.org): Principal Investigator and Management team.
 Fink empowers transient science in the era of astronomical big data, filtering huge datasets to identify the most promising transients. Fink is one of the handful projects worldwide awarded with real-time access to transients from the largest optical survey in the world at the Vera C. Rubin Observatory.
 
-[Dark Energy Survey (DES)](http://www.darkenergysurvey.org): I obtain constraints on the nature of Dark Energy with Type Ia Supernovae and use ML to obtain large SNe Ia samples to study their properties. I created the most succesfull SNe Ia ML classifier for cosmology, currently used in multiple surveys including DES, [SuperNNova](https://arxiv.org/abs/1901.06384).
+[Dark Energy Survey (DES)](http://www.darkenergysurvey.org): I obtain constraints on the nature of Dark Energy with Type Ia Supernovae and use ML to obtain large SNe Ia samples to study their properties. I created the most succesfull SNe Ia ML classifier for cosmology, currently used in multiple surveys, [SuperNNova](https://arxiv.org/abs/1901.06384). 
 
 [ARC Centre of Excellence for Gravitational Wave Discovery](https://www.ozgrav.org) Associate Investigator. 
 I  work on the optical and multi-wavelength follow-up of gravitational wave events and other extreme physics transients.
