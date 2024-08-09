@@ -16,5 +16,6 @@ The Australian counterpart [OzDES](http://www.mso.anu.edu.au/ozdes/index.html) o
 
 I specialize in:
 * [Photometrically classified samples (DES5YR)](https://arxiv.org/abs/2201.11142) allowing thousands more SNe Ia to be identified and used for cosmology.
+* Trailblazing the use of ML for selecting less biased SNe Ia samples, including an [close complete DES SNe Ia sample](https://arxiv.org/abs/2402.18690).
 * Modelling selection biases to obtain precise constraints on the nature of Dark Energy ([DES3YR](https://iopscience.iop.org/article/10.3847/1538-3881/abc01b),[DES5YR](https://arxiv.org/abs/2111.10382)).
 * Observations at the AAT and spectra analysis with OzDES.

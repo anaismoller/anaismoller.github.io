@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-**I am a physicist driven to understand the nature of Dark Energy and the nature of transients.** To maximize the information we can use to understand our Universe, I develop innovative tools with a large emphasis on machine learning (ML).
+**I am a physicist driven to understand the nature of Dark Energy and the properties of transients.** To maximize the information we can use to understand our Universe, I develop innovative tools with a large emphasis on machine learning (ML).
 
 _ _ _ _ _
 [Fink](http://fink-broker.org): Principal Investigator and Management team.
