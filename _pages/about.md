@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: ARC DECRA Fellow @ Swinburne University
+subtitle: ARC DECRA Fellow and Senior Lecturer @ Swinburne University
 description: time-domain astronomy | cosmology | machine learning
 
 
