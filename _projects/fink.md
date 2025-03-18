@@ -9,7 +9,7 @@ category: work
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/LSST_Fink_2020_small.jpg" title="Science portal" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/LSST_Fink_2020_small.jpg" title="Science portal" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
