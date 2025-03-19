@@ -12,7 +12,6 @@ on:
 
 jobs:
   check:
-    # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
@@ -25,7 +24,6 @@ jobs:
         id: prettier
         run: npx prettier . --check
       - name: Create diff 📝
-        # https://docs.github.com/en/actions/learn-github-actions/expressions#failure
         if: ${{ failure() }}
         run: |
           npx prettier . --write
@@ -40,6 +38,13 @@ jobs:
           name: HTML Diff
           path: diff.html
           retention-days: 7
+      - name: Commit changes 📝
+        if: ${{ failure() }}
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -am "Fix code style issues with Prettier"
+          git push
       - name: Dispatch information to repository 🗣️
         if: ${{ failure() && steps.prettier.conclusion == 'failure' && github.event_name == 'pull_request' }}
         uses: peter-evans/repository-dispatch@v2
