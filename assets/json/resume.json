@@ -65,12 +65,34 @@
   "education": [
     {
       "institution": "IRFU Cea Saclay, Université Paris Diderot",
-      "location": "",
+      "location": "France",
       "url": "",
-      "area": "",
+      "area": "Physics of the Universe",
       "studyType": "PhD",
       "startDate": "",
       "endDate": "2016",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "IRFU Cea Saclay, Université Paris Diderot",
+      "location": "France",
+      "url": "",
+      "area": "NPAC, Cosmology, Particle Physics, Nuclear, Astroparticles",
+      "studyType": "PhD",
+      "startDate": "",
+      "endDate": "2012",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Universidad Simón Bolívar",
+      "location": "Venezuela",
+      "url": "",
+      "area": "Physics",
+      "studyType": "Licenciatura",
+      "startDate": "",
+      "endDate": "2011",
       "score": "",
       "courses": []
     }
