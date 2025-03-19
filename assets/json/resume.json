@@ -13,7 +13,7 @@
       "city": "Melbourne",
       "countryCode": "Australia",
       "region": ""
-    },
+    }
   },
   "work": [
     {
@@ -23,7 +23,7 @@
       "startDate": "2024",
       "endDate": "present",
       "summary": "",
-      "highlights":
+      "highlights": []
     },
     {
       "name": "Swinburne University of Technology",
@@ -32,7 +32,7 @@
       "startDate": "2023",
       "endDate": "2026",
       "summary": "",
-      "highlights":
+      "highlights": []
     },
     {
       "name": "Swinburne University of Technology",
@@ -41,7 +41,7 @@
       "startDate": "2021",
       "endDate": "2023",
       "summary": "",
-      "highlights":
+      "highlights": []
     },
     {
       "name": "CNRS LPC Clermont-Ferrand",
@@ -50,7 +50,7 @@
       "startDate": "2019",
       "endDate": "2021",
       "summary": "",
-      "highlights":
+      "highlights": []
     },
     {
       "name": "Australian National University",
@@ -59,7 +59,7 @@
       "startDate": "2015",
       "endDate": "2019",
       "summary": "",
-      "highlights":
+      "highlights": []
     }
   ],
   "education": [
@@ -72,7 +72,7 @@
       "startDate": "",
       "endDate": "2016",
       "score": "",
-      "courses":
+      "courses": []
     }
   ],
   "awards": [
@@ -112,5 +112,5 @@
       "fluency": "Fluent",
       "icon": ""
     }
-  ],
+  ]
 }
