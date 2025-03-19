@@ -5,14 +5,14 @@
       value: Anais Möller
     - name: Languages
       value: Spanish, English, German, French
-    
+
 - title: Experience
   type: time_table
   contents:
     - title: Senior Lecturer in Astronomy
       institution: Swinburne University of Technology
       year: 2024 - present
-    - title: ARC DECRA Fellow 
+    - title: ARC DECRA Fellow
       institution: Swinburne University of Technology
       year: 2023 - 2026
     - title: Postdoctoral Fellow on transient astronomy
@@ -38,21 +38,20 @@
       institution: Universidad Simón Bolívar, Venezuela
       year: 2011
 
-
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2023
-      items: 
+      items:
         - ARC Discovery Early Career Researcher Award
     - year: 2023
-      items: 
+      items:
         - ARC LIEF grant (CoI)
     - year: 2023
-      items: 
+      items:
         - Finalist Women in AI APAC region
     - year: 2024
-      items: 
+      items:
         - Winner Women in AI APAC region
 
 - title: Other Interests
