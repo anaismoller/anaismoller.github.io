@@ -75,11 +75,11 @@
       "courses": []
     },
     {
-      "institution": "IRFU Cea Saclay, Université Paris Diderot",
+      "institution": "Université Paris Diderot",
       "location": "France",
       "url": "",
       "area": "NPAC, Cosmology, Particle Physics, Nuclear, Astroparticles",
-      "studyType": "PhD",
+      "studyType": "Master",
       "startDate": "",
       "endDate": "2012",
       "score": "",
@@ -107,6 +107,13 @@
     },
     {
       "title": "Women in AI APAC region",
+      "date": "2024",
+      "awarder": "",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Swinburne SoSCET Research Excellence Award",
       "date": "2024",
       "awarder": "",
       "url": "",

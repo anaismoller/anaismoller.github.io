@@ -33,6 +33,6 @@ Member of [Dark Energy Science Collaboration (DESC LSST)](http://lsst-desc.org),
 
 ---
 
-<p>I have lived in Venezuela, Germany, France and Australia. I enjoy the outdoors so you will find me as well sailing, hiking, rock climbing, diving... </p>
+<p>I have lived in Venezuela, Germany, France and Australia. I enjoy the outdoors, sailing, hiking, rock climbing, diving... </p>
 
 ---
