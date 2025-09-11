@@ -16,9 +16,9 @@ Interested in doing a project PhD, Honours and internship project? Please look a
 - Renee Key: PhD candidate at Swinburne (Co-supervisor) current
 - Mark Suhr: PhD candidate at Swinburne (Co-supervisor) current
 - Natasha Van Bemmel: PhD candidate at Swinburne (Co-supervisor) current
-- James Freeburn: PhD candidate at Swinburne (Co-supervisor) current
+- James Freeburn: PhD Swinburne (Co-supervisor) -> University of North Carolina, USA
 - Natalyia Ramos: Master LPC (Supervisor) -> PhD at IAC Spain
-- Fiona Panther: PhD ANU (Co-supervisor) -> Postdoc UWA
+- Fiona Panther: PhD ANU (Co-supervisor) -> Postdoc UWA, Australia
 - Bonnie Zhang: PhD ANU (Co-supervisor) -> Google USA
 - Patrick Armstrong: Undergraduate internship (Co-supervisor) -> PhD at ANU
 
