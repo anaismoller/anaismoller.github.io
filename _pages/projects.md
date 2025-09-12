@@ -8,19 +8,7 @@ display_categories: [work]
 horizontal: false
 ---
 
-Interested in doing a project PhD, Honours and internship project? Please look at the [Swinburne CAS webpage](https://astronomy.swin.edu.au/study/phdprojects.html) and send me an email to <a href="mailto:amoller@swin.edu.au">amoller@swin.edu.au</a>.
-
-- Lukas Steinwender: PhD candidate at Swinburne (Supervisor) current
-- Olivia Vidal-Velázquez: PhD candidate at Swinburne (Supervisor) current
-- Tallulah Waterson: PhD candidate at Swinburne (Co-supervisor) current
-- Mark Suhr: PhD candidate at Swinburne (Co-supervisor) current
-- Natasha Van Bemmel: PhD candidate at Swinburne (Co-supervisor) current
-- Renee Key: PhD candidate at Swinburne (Co-supervisor) current
-- James Freeburn: PhD Swinburne (Co-supervisor) -> University of North Carolina, USA
-- Natalyia Ramos: Master LPC (Supervisor) -> PhD at IAC Spain
-- Fiona Panther: PhD ANU (Co-supervisor) -> Postdoc UWA
-- Bonnie Zhang: PhD ANU (Co-supervisor) -> Google USA
-- Patrick Armstrong: Undergraduate internship (Co-supervisor) -> PhD at ANU
+Interested in doing a project PhD, Honours and internship project? Please look at the [Swinburne CAS webpage](https://astronomy.swin.edu.au/study/phdprojects.html), we have two calls per year.
 
 ## Collaborations
 
