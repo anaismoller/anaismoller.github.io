@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Time-Domain Extragalactic Survey (TiDES) 
+title: Time-Domain Extragalactic Survey (TiDES)
 description: Rubin's spectroscopic counterpart
 img: /assets/img/rubin.jpg
 importance: 5
@@ -12,6 +12,3 @@ I am contributing to the spectroscopic follow-up of extragalactic optical transi
 - Supernova Classification: Spectroscopic observations of supernova-like transients to enable precise classification and characterization.
 - Host Galaxy Studies: Comprehensive follow-up of transient host galaxies to measure redshifts for cosmological research applications.
 - AGN Monitoring: Repeat spectroscopic observations designed for reverberation mapping of Active Galactic Nuclei (AGN) and supermassive black hole binary candidates.
-
-
-
