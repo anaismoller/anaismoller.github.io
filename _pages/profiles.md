@@ -5,8 +5,7 @@ title: people
 description: members of the lab or group
 nav: true
 nav_order: 7
-
-## Students
+---
 
 Interested in doing a project PhD, Honours and internship project? Please look at the [Swinburne CAS webpage](https://astronomy.swin.edu.au/study/phdprojects.html) and send me an email to <a href="mailto:amoller@swin.edu.au">amoller@swin.edu.au</a>.
 
