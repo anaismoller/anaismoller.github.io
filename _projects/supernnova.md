@@ -3,7 +3,7 @@ layout: page
 title:
 description: Open source photometric classification
 img: /assets/img/supernnova.jpg
-importance: 5
+importance: 4
 category: work
 ---
 
