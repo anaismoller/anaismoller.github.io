@@ -67,12 +67,7 @@ ninja.data = [{
           section: "News",},{id: "news-happy-to-share-that-i-am-now-an-ongoing-senior-lecturer-and-researcher-at-swinburne-university-of-technology",
           title: 'Happy to share that I am now an ongoing Senior Lecturer and Researcher...',
           description: "",
-          section: "News",},{id: "projects-project-10",
-          title: 'project 10',
-          description: "A project with an introduction section",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/10_project.html";
-            },},{id: "projects-des-amp-ozdes",
+          section: "News",},{id: "projects-des-amp-ozdes",
           title: 'DES &amp;amp; OzDES',
           description: "unveiling Dark Energy with SNe Ia",
           section: "Projects",handler: () => {
