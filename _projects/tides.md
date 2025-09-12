@@ -3,7 +3,7 @@ layout: page
 title: Time-Domain Extragalactic Survey (TiDES)
 description: Rubin's spectroscopic counterpart
 img: /assets/img/rubin.jpg
-importance: 5
+importance: 3
 category: work
 ---
 
