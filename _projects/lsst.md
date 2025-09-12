@@ -3,7 +3,6 @@ layout: page
 title: Rubin LSST
 description: world's largest optical survey
 img: /assets/img/rubin.jpg
-# redirect: https://www.lsst.org
 importance: 2
 category: work
 ---
@@ -14,4 +13,4 @@ I am co-founder of a Rubin community broker called [Fink](http://fink-broker.org
 
 Asides from this, I am working to obtain precision constraints of the effect of dark energy using type Ia supernovae at the [Dark Energy Science Collaboration (DESC LSST)](http://lsst-desc.org). I am also interested in exploring the diversity of transient events and study them with multi-wavelength and messenger data at the [Transients and Variable Star Collaboration (TVS LSST)](https://lsst-tvssc.github.io). Of course, machine learning and novel analysis methods is a big part of my research and I am a member of the [Informatics and Statistics Science Collaboration for LSST](https://issc.science.lsst.org)
 
-The [biggest optical survey](https://www.lsst.org) ever, coming live soon !
+The [biggest optical survey](http://rubinobservatory.org) ever, coming live soon !
