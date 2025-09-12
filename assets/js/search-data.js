@@ -87,6 +87,11 @@ ninja.data = [{
           description: "Open source photometric classification",
           section: "Projects",handler: () => {
               window.location.href = "/projects/supernnova.html";
+            },},{id: "projects-time-domain-extragalactic-survey-tides",
+          title: 'Time-Domain Extragalactic Survey (TiDES)',
+          description: "Rubin&#39;s spectroscopic counterpart",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tides.html";
             },},{
         id: 'social-email',
         title: 'email',
