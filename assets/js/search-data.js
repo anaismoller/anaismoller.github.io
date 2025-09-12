@@ -72,11 +72,6 @@ ninja.data = [{
           description: "unveiling Dark Energy with SNe Ia",
           section: "Projects",handler: () => {
               window.location.href = "/projects/des.html";
-            },},{id: "projects-deeper-wider-faster",
-          title: 'Deeper Wider Faster',
-          description: "multi-wavelength fast-transients",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/dwf.html";
             },},{id: "projects-fink-broker",
           title: 'Fink broker',
           description: "empowering transient science in the big data era",
