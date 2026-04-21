@@ -7,7 +7,7 @@ description: time-domain astronomy | cosmology | machine learning
 
 profile:
   align: right
-  image: Anais_Moller_CAS.jpg
+  image: Anais_CAS.png
   address: >
     <p><small><i class="fab fa-github"></i> <a href="https://github.com/anaismoller"> @anaismoller</a></small></p>
     <p><small><i class="fas fa-envelope"></i> <a href="mailto:amoller@swin.edu.au">amoller@swin.edu.au</a></small></p>
