@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Anais Möller",
-    "label": "ARC DECRA Fellow and Senior Lecturer",
+    "label": "Senior Lecturer",
     "image": "",
     "email": "amoller@swin.edu.au",
     "phone": "",
@@ -21,7 +21,7 @@
       "position": "Senior Lecturer in Astronomy",
       "url": "",
       "startDate": "2024",
-      "endDate": "present",
+      "endDate": "ongoing",
       "summary": "",
       "highlights": []
     },
@@ -115,6 +115,13 @@
     {
       "title": "Swinburne SoSCET Research Excellence Award",
       "date": "2024",
+      "awarder": "",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Swinburne Vice-Chancellor's Research Excellence Award",
+      "date": "2025",
       "awarder": "",
       "url": "",
       "summary": ""
